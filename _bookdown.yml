@@ -1,0 +1,3 @@
+book_filename: "_combined.Rmd"
+output_dir: "docs"
+rmd_files: ['book1/article1.rmd', 'book2/article2.rmd']

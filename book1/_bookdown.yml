@@ -1,0 +1,3 @@
+book_filename: "_book1.Rmd"
+output_dir: "docs"
+rmd_files: ['index.rmd', 'article1.rmd']

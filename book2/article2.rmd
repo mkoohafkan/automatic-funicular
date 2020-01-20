@@ -1,0 +1,13 @@
+# Introduction {#book2-intro}
+
+This is a second article. Here's some data:
+
+```{r b-summary}
+summary(mtcars)
+```
+
+Here's a plot:
+
+```{r b-plot, echo = FALSE}
+plot(mtcars[c("disp", "mpg")])
+```

@@ -1,0 +1,14 @@
+# Introduction {#book1-intro}
+
+This is an article. Here's some data:
+
+```{r a-summary}
+summary(iris)
+```
+
+Here's a plot:
+
+```{r a-plot, echo = FALSE}
+plot(iris[c("Sepal.Length", "Petal.Length")])
+```
+ 
